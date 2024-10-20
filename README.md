@@ -2,7 +2,7 @@
 
 BE A QUALITY ASSURANCE ANALYST
 
-Add the .equalTo() method to the Coin class
+Add the .equals() method to the Coin class
 
 Use the MyArrayList and Coin classes to create a list of Coin objects.
 
